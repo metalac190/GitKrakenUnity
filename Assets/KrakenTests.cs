@@ -8,4 +8,9 @@ public class KrakenTests : MonoBehaviour
     {
         Debug.Log("Spawn Object!");
     }
+
+    public void PlayMusic()
+    {
+        Debug.Log("Start music playing here");
+    }
 }
