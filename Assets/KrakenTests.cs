@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class KrakenTests : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void PlayMusic()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Debug.Log("Start music playing here");
     }
 }
